@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabSnowflake",
+      "FabBrands",
+      "FabLemon"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Permaculture": "FabLemon",
+  "Excalidraw": "FabSnowflake",
+  "Permaculture/Permaculture Principles.md": "FabBrands"
+}
